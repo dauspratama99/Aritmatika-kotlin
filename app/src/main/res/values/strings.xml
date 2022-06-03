@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Praktikum1-62</string>
+
+    <string-array name="pp_operator">
+        <item>- Pilih Hitungan -</item>
+        <item>Luas</item>
+        <item>Keliling</item>
+    </string-array>
+
+    <string-array name="bs_operator">
+        <item>- Pilih Hitungan -</item>
+        <item>Luas Bujur Sangkar</item>
+        <item>Keliling Bujur Sangkar</item>
+    </string-array>
+
+    <string-array name="sp_operator">
+        <item>- Pilih Operator -</item>
+        <item>X</item>
+        <item>/</item>
+        <item>+</item>
+        <item>-</item>
+    </string-array>
+
+
+</resources>
